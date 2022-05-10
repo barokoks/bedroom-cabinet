@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barokoks.github.io/bedroom-cabinet/sitemapx.xml
